@@ -1,4 +1,4 @@
-# FEED: Chines Financial Event Extraction Dataset Benchmark
+# FEED: Chines Financial Event Extraction Dataset
 
 ## Abstract
 
