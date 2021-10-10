@@ -1,4 +1,4 @@
-# FEED: Chines Financial Event Extraction Dataset
+# FEED: Chinese Financial Event Extraction Dataset
 
 ## Abstract
 
