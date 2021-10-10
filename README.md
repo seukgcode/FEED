@@ -34,7 +34,7 @@ The raw data are company announcements from 2008 to 2018 crawled from the Chines
 |EP|15,533|12,443|1,555|1,535|
 |Total|31,748|2,5398|3,175|3,175|
 
-## Exapmles in FEED
+## Examples in FEED
 This figure shows an example of extracting multiple events from a document. Different paragraphs in the document correspond to two different events, both of which belong to EP.
 ![example](https://user-images.githubusercontent.com/83271325/136688391-fdc044b0-28f9-47c6-8dfb-8af587f25f7d.jpg)
 
