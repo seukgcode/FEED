@@ -8,7 +8,7 @@ We release a large-scale Chinese financial event extraction dataset FEED, consis
 
 In order to efficiently build a large-scale Chinese financial EE dataset from massive financial announcements, we propose an approach based on distant supervision. The overview of this approach is illustrated bellow. We first extract candidate events from preprocessed data by Fonduer. Second, an event knowledge base is built using weakly supervised classification method. Finally, we label the events via distant supervision to obtain the FEED dataset.
 
-![overview](figures/Dataset Construction.png)
+![overview](/figures/Dataset Construction.png)
 
 ### 远程监督标注
 经过上述步骤得到金融事件知识库之后，我们采用远程监督的方式对爬取的文档数据进行标注。如下图所示：
