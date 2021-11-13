@@ -1,5 +1,4 @@
 # FEED
-
 A Chinese Financial Event Extraction Dataset Constructed by Distant Supervision
 
 ## Abstract
